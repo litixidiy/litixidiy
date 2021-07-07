@@ -1,16 +1,17 @@
-### Hi there 👋
+I’m Ryan Liu, a senior high school student in Canada, Ontario
+- 👀 I’m interested in Math and CS
+- 🌱 I’m currently learning nothing
+- ⚒️ Java, Python and a little bit C++/JavaScript
+- 📫 How to reach me  Email : lch.ryanliu@gmail.com
+- Pronouns: He/Him
+- 👨‍🔬 [INTJ](https://www.16personalities.com/intj-personality) Personality 
 
-<!--
-**litixidiy/litixidiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=RyanLiu-LCH&count_private=true&show_icons=true&theme=radical)](https://github.com/RyanLiu-LCH)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLiu-LCH&theme=radical)](https://github.com/RyanLiu-LCH)
+
+<!---
+RyanLiu-LCH/RyanLiu-LCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
