@@ -1,7 +1,7 @@
-I’m Ryan Liu, a senior high school student in Canada, Ontario
+I’m Ryan Liu, an incoming student at Queen's University for Computing, in Canada, Ontario
 - 👀 I’m interested in Math and CS
 - 🌱 I’m currently learning nothing
-- ⚒️ Java, Python and a little bit C++/JavaScript
+- ⚒️ Java, Python, JS and a little bit C++/JavaScript
 - 📫 How to reach me  Email : lch.ryanliu@gmail.com
 - Pronouns: He/Him
 - 👨‍🔬 [INTJ](https://www.16personalities.com/intj-personality) Personality 
