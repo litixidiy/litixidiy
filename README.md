@@ -7,7 +7,7 @@ I’m Ryan Liu, student at Queen's University for Computing, in Canada, Ontario
 
 
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=litixidiy&count_private=true&show_icons=true&theme=radical)](https://github.com/litixidiy)
-
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=nihility-01&theme=dark)](https://leetcode.com/nihility-01/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litixidiy&theme=radical)](https://github.com/litixidiy)
 
 <!---
