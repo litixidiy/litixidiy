@@ -5,8 +5,8 @@ I’m Ryan Liu, student at Queen's University for Computing, in Canada, Ontario
 - Pronouns: He/Him
 - 👨‍🔬 [INTJ](https://www.16personalities.com/intj-personality) Personality 
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=nihility-01&theme=dark)](https://leetcode.com/nihility-01/)
-[![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=litixidiy&count_private=true&show_icons=true&theme=radical)](https://github.com/litixidiy)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=nihility-01&theme=dark)](https://leetcode.com/nihility-01/)\
+[![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=litixidiy&count_private=true&show_icons=true&theme=radical)](https://github.com/litixidiy)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litixidiy&theme=radical)](https://github.com/litixidiy)
 
 <!---
