@@ -1,6 +1,6 @@
 I’m Ryan Liu, student at Queen's University for Computing, in Canada, Ontario
 - 🌱 I’m currently learning Frontend design
-- ⚒️ Python, JS, Java and a little bit of C++
+- ⚒️ Python, JS, Java , Rust and C++
 - 📫 How to reach me  Email : lch.ryanliu@gmail.com
 - Pronouns: He/Him
 - 👨‍🔬 [INTJ](https://www.16personalities.com/intj-personality) Personality 
