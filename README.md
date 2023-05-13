@@ -1,5 +1,5 @@
 I’m Ryan Liu, student at Queen's University for Computing, in Canada, Ontario
-- 🌱 I’m currently learning Frontend design
+- 🌱 learning Angular ... 
 - ⚒️ Python, JS, Java , Rust and C++
 - 📫 How to reach me  Email : lch.ryanliu@gmail.com
 - Pronouns: He/Him
