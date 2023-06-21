@@ -1,4 +1,4 @@
-I’m Ryan Liu, student at Queen's University for Computing, in Canada, Ontario
+I’m Ryan Liu, student at Queen's University studying computer science, math and stats, in Ontario Canada
 - 🌱 learning Angular ... 
 - ⚒️ Python, JS, Java , Rust and C++
 - 📫 How to reach me  Email : lch.ryanliu@gmail.com
