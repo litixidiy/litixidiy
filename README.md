@@ -1,9 +1,8 @@
-I’m Ryan Liu, student at Queen's University studying computer science, math and stats, in Ontario Canada
-- 🌱 learning Angular ... 
+I’m Ryan Liu, 3rd year student @ Queen's University studying computer science. prev @ {Meta, Amazon}
+- 🌱 learning to be cracked
 - ⚒️ Python, JS, Java , Rust and C++
 - 📫 How to reach me  Email : lch.ryanliu@gmail.com
 - Pronouns: He/Him
-- 👨‍🔬 [INTJ](https://www.16personalities.com/intj-personality) Personality 
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=nihility-01&theme=dark)](https://leetcode.com/nihility-01/)\
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=litixidiy&count_private=true&show_icons=true&theme=radical)](https://github.com/litixidiy)\
