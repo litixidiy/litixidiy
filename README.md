@@ -1,8 +1,7 @@
-I’m Ryan Liu, 3rd year student @ Queen's University studying computer science. prev @ {Meta, Amazon}
-- 🌱 learning to be cracked
+prev @ {Meta, Amazon}
+- 🌱 trying to be good.
 - ⚒️ Python, JS, Java , Rust and C++
-- 📫 How to reach me  Email : lch.ryanliu@gmail.com
-- Pronouns: He/Him
+- 📫 How to reach me: 21cl90@queensu.ca
 
 [![](https://leetcode-stats-six.vercel.app/?username=nihility-01&theme=dark)](https://leetcode.com/nihility-01/)\
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=litixidiy&count_private=true&show_icons=true&theme=radical)](https://github.com/litixidiy)\
